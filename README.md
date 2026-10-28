@@ -47,3 +47,10 @@ Desenvolvimento Python, automações com IA, integração de APIs e LLMs, infrae
 
 ---
 *Portfólio em construção: documentação de projetos baseada em experiências práticas; sem alegações de certificações técnicas ou métricas não verificadas.*
+
+## Organização e próximos passos
+
+- [Acompanhar a organização do GitHub e o processo de publicação do Terra Sentinel](docs/roteiro-publicacao.md)
+- [Exemplo Python de validação de telemetria com testes](examples/README.md)
+
+> **Transparência técnica:** Terra Sentinel completo permanece privado enquanto a versão pública passa por auditoria de credenciais, autorização e direitos de redistribuição. O portfólio contém descrições técnicas e exemplos independentes.
